@@ -1,6 +1,6 @@
-![screenshot of the map](https://autogis-2019.github.io/exercise-5-flying-rock/kelut.png)
-
 # Interactive volcanic fatalities map
+
+![screenshot of the map](https://autogis-2019.github.io/exercise-5-flying-rock/kelut.png)
 
 Click on the link below to launch in your browser, an interactive cluster marker map of the volcanic fatalities database from Brown et al. (2015). Zooming in on areas of interest and clicking on the blue markers will give information on the number of fatalities for a particular eruption along with its start year and the name of the volcano.
 
