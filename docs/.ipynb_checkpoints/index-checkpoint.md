@@ -1,20 +1,13 @@
-# Entrance page
+![screenshot of the map](https://autogis-2019.github.io/exercise-5-flying-rock/kelut.png)
 
-To this page you should add links to your interactive html-maps that are located under your Exercise-5 repository like the following (*modify the username part* + *notice that **e**xercise starts with lower e -letter *):
+# Interactive volcanic fatalities map
 
- `https://autogis-2019.github.io/exercise-5-YourUserName/filename.html`
+Click on the link below to launch in your browser, an interactive cluster marker map of the volcanic fatalities database from Brown et al. (2015). Zooming in on areas of interest and clicking on the blue markers will give information on the number of fatalities for a particular eruption along with its start year and the name of the volcano.
 
-Here is an example how to do it in MarkDown for user VuokkoH:
-
-```
-[Link to test map](https://autogis-2019.github.io/exercise-5-VuokkoH/test_map.html)
-```
-
-## My maps
-
-Edit the text below and add links to the maps that you have created:
-
- - [Static map](https://autogis-2019.github.io/exercise-5-flying-rock/Rabaul_94.png)
  - [Interactive volcano fatalities map](https://autogis-2019.github.io/exercise-5-flying-rock/Volcano_fatalities.html)
- - [Link to test map](https://autogis-2018.github.io/exercise-5-VuokkoH/test_map.html)
+ 
+This is Version 1 of the database, meaning it has not been updated since 2015. For eruptions where fatalities were recorded in multiple locations there will be mulitple markers.
+ 
+ The journal article describing the data is freely available [here](https://appliedvolc.biomedcentral.com/articles/10.1186/s13617-017-0067-4).
+ 
 
