@@ -10,4 +10,7 @@ This is Version 1 of the database, meaning it has not been updated since 2015. F
  
  The journal article describing the data is freely available [here](https://appliedvolc.biomedcentral.com/articles/10.1186/s13617-017-0067-4).
  
+ BONUS 
+ - [Tephra fall building damage map](https://autogis-2019.github.io/exercise-5-flying-rock/tephra_building_damage.html)
+ 
 
